@@ -350,7 +350,6 @@ nav .mbr-section-btn {
   align-items: baseline;
   height: 100vh;
   min-height: 100%;
-  box-sizing: border-box;
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
