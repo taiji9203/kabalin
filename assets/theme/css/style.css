@@ -348,7 +348,7 @@ nav .mbr-section-btn {
   display: -ms-flex;
   display: -o-flex;
   align-items: baseline;
-  min-height: 100vh;
+  min-height: 100%;
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
