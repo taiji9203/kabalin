@@ -349,7 +349,7 @@ nav .mbr-section-btn {
   display: -o-flex;
   align-items: baseline;
   height: 100vh;
-  min-height: 100%;
+
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
